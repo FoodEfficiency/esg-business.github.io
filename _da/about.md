@@ -15,7 +15,7 @@ ref: about
 
 Fortiden kan man ikke løbe fra.....
 
-**ESG in Business** er en udløber af **FoodEfficiency** der blev etableret i juli 2012 og som ejers af Karin Hansen.
+**ESG in Business** er en udløber af **[FoodEfficiency](https://www.foodefficiency.eu){:target="_blank"}** der blev etableret i juli 2012 og som ejers af Karin Hansen.
 
 Min viden fra globale forsyningskæder om gensidige afhængighed, sporbarhed, dokumentation, miljømæssigt og socialt ansvar stammer fra Arla Foods, SPX Technology samt min tid hos LEGO.
 
