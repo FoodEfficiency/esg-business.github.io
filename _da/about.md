@@ -12,15 +12,18 @@ ref: about
 # Om os - ESG in Business
 
 ![ESG in Business v/Karin Hansen][1]
-**ESG in Business** blev etableret i juli 2012 som uafhængig rådgiver indenfor kvaltitet, miljø, arbejdsmiljø og bæredygtighed. Kundebasen er primært i fødevareforsyningkæden hvor vi har over 20 års international erfaring. 
 
-Fødevarekædens højekrav til sporbarhed igennem forsyningskæden gør også **ESG in Business** til en attraktiv samarbejdspartner for andre industrier der ønsker at styrke samarbejde med kunder, leverandører og underleverandørere på tværs af forsyningskæden, f.eks. med fokus på kvalitet og bæredygtighed. 
+Fortiden kan man ikke løbe fra.....
 
-**ESG in Business** drives af Karin Hansen, som er uddannet mejeriingeniør med supplerende master i teknisk miljøledelse fra DTU.
+**ESG in Business** er en udløber af **FoodEfficiency** der blev etableret i juli 2012 og som ejers af Karin Hansen.
 
-Karin Hansen har siden 1996 beskæftiget sig med kvalitets, miljø, sikkerhed, produktudvikling og projekledelse i ind- og udland. Det er ud fra disse erfaringer at hun nu rådgiver små og mellemstore virksomheder indenfor fødevaresikkerhed og bæredygtighed.
+Min viden fra globale forsyningskæder om gensidige afhængighed, sporbarhed, dokumentation, miljømæssigt og socialt ansvar stammer fra Arla Foods, SPX Technology samt min tid hos LEGO.
 
-Derudover er Karin uddannet BRC 3rd parts auditor til leverandør audits, ISO22000 FSSC Lead auditor samt godkendt rådgiver iht. fødevarstyrelens rådgiverliste. 
+Det samme gælder min viden om LivsCyklusAnalyser fra da Arla præsenterede sin første af slagsen i år 2000 - mit fokus var ikke blot at se på energi og vandforbrug i produktionen men lige så meget at sikre optimal værdiudnyttelse af råvaren med fokus på kvalitet, emballage samt opbevarings- og forbrugsvaner ud til slutbruger.
+
+Jeg har derfor valgt at samle mine erfaringer og kompetencer indenfor klima, bæredygtighed og ESG området under navnet "ESG in Business" og håber derved at kunne nå ud til flere sektorer.
+
+Fødevareaktiviteterne bibeholdes i Food Efficiency hvor jeg fortsat er på FVST's liste over godkendte rådgivere samt varetager div kvalitets, miljø- og arbejdsmiljøopgaver for små og mellemstore fødevareproducenter. 
 
 Tidligere ansættelsesforhold og opgaver [fremgår af CV][2] samt LinkedIn profil [https://www.linkedin.com/company/foodefficiency][3]
 
