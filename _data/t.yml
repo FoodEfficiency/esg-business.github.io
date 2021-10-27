@@ -1,0 +1,61 @@
+# I18n - Translations
+# Alternatively site.data.t[nav_language].global.language_select
+da:
+  global:
+    language_select: "Language:"
+    # danish: Dansk
+    # english: Engelsk
+  locale:
+    title: Dansk
+    # date_format: "%-d-%b-%Y"
+    img: /assets/img/da.png
+    url: /
+  pages:
+  posts:
+    home: Tilbage til nyhedsoversigt
+    next: Næste
+    prev: Forrige
+    more: Ældre nyheder...
+    title: Seneste nyheder
+    url: /news
+  sidebar:
+    pages:
+      title: Inspiration
+  updates:
+    title: LinkedIn Updates
+    url: https://linkedin.com/company/foodefficiency
+en:
+  global:
+    language_select: "Language:"
+    # danish: Danish
+    # english: English
+  locale:
+    title: English
+    # date_format: "%b %-d, %Y"
+    img: /assets/img/en.png
+    url: /en
+  pages:
+  posts:
+    home: Back to all news
+    next: Next
+    prev: Previous
+    more: Older news...
+    title: Latest news
+    url: /en/news
+  sidebar:
+    pages:
+      title: Inspiration
+  updates:
+    title: LinkedIn Updates
+    url: https://linkedin.com/company/foodefficiency
+
+
+# Alternatively site.data.t.home.title[nav_language].label
+home:
+  da:
+    locale: "Language:"
+    title: Home
+  en:
+    locale: "Language:"
+    title: Home
+#...

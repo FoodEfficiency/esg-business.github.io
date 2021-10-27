@@ -1,0 +1,357 @@
+// Placeholder to allow defining custom styles that override everything else.
+// (Use `_sass/minima/custom-variables.scss` to override variable defaults)
+
+a {
+  color: $brand-color;
+
+  &:hover {
+    text-decoration: none;
+  }
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: $brand-color;
+}
+
+.brand {
+  color: $brand-color-dark !important;
+  font-size: 30px;
+  font-weight: bold;
+
+  span {
+    color: $brand-color;
+  }
+}
+
+.da:lang(da), .en:lang(en){
+    font-weight: bold;
+}
+
+.home {
+  min-height: 406px
+}
+
+.locale_select {
+  float: right;
+
+  ul {
+    display: inline;
+    margin-left: 0; // 20px;
+
+    li {
+      border: 3px solid #fdfdfd; // $background-color;
+      display: inline;
+      list-style: none;
+
+      &.active {
+        border: 3px solid $link-hover-color;
+      }
+    }
+  }
+}
+
+.offscreen {
+  position:absolute;
+  left:-10000px;
+  top:auto;
+  width:1px;
+  height:1px;
+  overflow:hidden;
+}
+
+.site-nav .trigger {
+  li {
+    display: inline-block;
+    margin-bottom: 0;
+    margin-right: 0 !important;
+  }
+}
+
+.site-nav input:checked ~ .trigger {
+  padding-bottom: 0; // 5px;
+}
+
+// https://moderncss.dev/css-only-accessible-dropdown-navigation-menu/
+.header-nav {
+  min-height: 40px;
+  line-height: 40px;
+  margin-bottom: 0.2em;
+  padding-left: 20px;
+  padding-right: 20px;
+  background-color: $fe-navbar-background-color;
+  background-image: -moz-linear-gradient(top, $brand-color-light, $brand-color-dark);
+  background-image: -ms-linear-gradient(top, $brand-color-light, $brand-color-dark);
+  background-image: -webkit-gradient(linear, 0 0, 0 100%, from($brand-color-light), to($brand-color-dark));
+  background-image: -webkit-linear-gradient(top, $brand-color-light, $brand-color-dark);
+  background-image: -o-linear-gradient(top, $brand-color-light, $brand-color-dark);
+  background-image: linear-gradient(top, $brand-color-light, $brand-color-dark);
+  background-repeat: repeat-x;
+  // filter: progid: DXImageTransform.Microsoft.gradient(startColorstr=#FF026873, endColorstr=#FF012340, GradientType=0);
+  -webkit-border-radius: 4px;
+  -moz-border-radius: 4px;
+  border-radius: 4px;
+  -webkit-box-shadow: "0 1px 3px rgba(0,0,0,.25), inset 0 -1px 0 rgba(0,0,0,.1)";
+  -moz-box-shadow: "0 1px 3px rgba(0,0,0,.25), inset 0 -1px 0 rgba(0,0,0,.1)";
+  box-shadow: "0 1px 3px rgba(0,0,0,.25), inset 0 -1px 0 rgba(0,0,0,.1)";
+
+  ul {
+    li.page-link {
+      margin-left: 0; // 20px;
+      text-align: left;
+
+      & > a, & > button {
+        color: #999;
+        padding: 5px 0; // 9px; // 11px;
+        vertical-align: baseline;
+        &:hover {
+          background-color: $brand-color-light;
+          color: $fe-sidebar-background;
+        }
+      }
+      & > a.dropdown__header:after {
+        content: "";
+        border: 0.35rem solid transparent;
+        border-top-color: $link-hover-color; // rgba(blue, 0.45);
+        margin-left: 0.25em;
+        transform: translateY(0.15em);
+
+        position: relative;
+        top: 0.7em;
+      }
+      &.active > a, &.active > button {
+        background-color: $brand-color-light;
+        color: $fe-sidebar-background;
+      }
+    }
+  }
+
+  // Only applies to top-level menu
+  & > ul > li.page-link {
+    & > a, & > button {
+      padding: 9px; // 11px;
+    }
+  }
+
+  .dropdown__title {
+    background-color: transparent;
+    border: none;
+    font-family: inherit;
+    font-size: inherit;
+
+    display: inline-flex;
+    align-items: center;
+
+    &:after {
+      content: "";
+      border: 0.35rem solid transparent;
+      border-top-color: $link-hover-color; // rgba(blue, 0.45);
+      margin-left: 0.25em;
+      transform: translateY(0.15em);
+    }
+  }
+
+  .dropdown {
+    position: relative;
+    line-height: 2em;
+
+    .dropdown__menu {
+      background-color: lighten($brand-color, 12%);
+      border-radius: 4px;
+      // box-shadow: 0 0.15em 0.25em rgba(black, 0.25);
+      // display: block;
+      min-width: 90%; // 15ch;
+      padding: 0 0.5em 1em;
+
+      position: absolute;
+      // Pull up to overlap the parent list item very slightly
+      top: calc(100% - 0.25rem);
+      // Use the left from absolute position to shift the left side
+      left: 50%;
+
+      a {
+        color: #444;
+        // display: block;
+        // padding: 0.5em;
+      }
+
+      li {
+        margin: 1em 0.5em 0;
+        display: block;
+      }
+    }
+
+    @media screen and (min-width: $on-medium) {
+      .dropdown__menu {
+        // Use translateX to shift the menu 50% of it's width back to the left
+        transform: rotateX(-90deg) translateX(-50%);
+        transform-origin: top center;
+        opacity: 0.3;
+        transition: 280ms all 60ms ease-out;
+      }
+
+      &:hover,
+      &:focus-within {
+        .dropdown__menu {
+          opacity: 0.99; // 1;
+          transform: rotateX(0) translateX(-50%);
+          visibility: visible;
+        }
+      }
+    }
+  }
+}
+
+.page-content {
+  h1.page-heading {
+    color: $brand-color;
+  }
+
+  // See: https://www.xaprb.com/blog/how-to-style-images-with-markdown/
+  img {
+    margin: 0.5em;
+  }
+  // Using exact match, e.g. ![Kitten](/media/2018/08/kitten.jpg#pull-right)
+  img[src*="#pull-left"], .pull-left {
+    float: left;
+  }
+  img[src*="#pull-right"], .pull-right {
+    float: right;
+  }
+  img[src*="home-bg"] {
+    margin: 0em; // reset margin on home page bg img
+  }
+  img[src*="w255"], .medium {
+    max-width: 255px;
+  }
+  img[src*="w360"], .medium {
+    max-width: 360px;
+  }
+  img[src*="w450"], .medium {
+    max-width: 450px;
+  }
+  // Using pseudo class, e.g. ![Kitten](/media/2018/08/kitten.jpg# thumbnail bordered)
+  img[src~="thumbnail"], img[src*="thumbnail"], .thumbnail {
+    max-width: 150px;
+    max-height: 100px;
+  }
+  img[src~="bordered"] {
+    border: 1px solid black;
+  }
+
+  .contact-inner {
+    label {
+      display: block;
+      font-size: 13px;
+    }
+    input, textarea {
+      background-color: #fff;
+      border: 1px solid #ccc;
+      border-radius: 3px;
+      display: inline-block;
+      line-height: 18px;
+      padding: 4px;
+      width: 296px;
+
+      &.btn {
+        color: #fff;
+        padding: 4px 10px 4px;
+        margin-bottom: 0;
+        text-align: center;
+        width: auto;
+      }
+    }
+    input[type=checkbox] {
+      width: 2em;
+    }
+
+    .field {
+      padding-bottom: 1em;
+    }
+  }
+
+  .post {
+    max-width: calc(#{$content-width} - (#{$spacing-unit}) - (#{$sidebar-width}));
+
+    @media screen and (min-width: $on-medium) {
+    }
+
+    @media screen and (min-width: $on-large) {
+      float: left;
+      max-width: calc(#{$content-width} - (#{$spacing-unit} * 2) - (#{$sidebar-width}));
+    }
+  }
+
+  .sidebar {
+    float: left;
+    width: $sidebar-width;
+
+    nav {
+      background-color: $fe-sidebar-background;
+      border: 1px solid rgba(0, 0, 0, 0.05);
+      -webkit-border-radius: 4px;
+      -moz-border-radius: 4px;
+      border-radius: 4px;
+      -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.05);
+      -moz-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.05);
+      box-shadow:inset 0 1px 1px rgba(0, 0, 0, 0.05);
+      min-height: 20px;
+      margin-bottom: 1em;
+      margin-right: 32px;
+      padding: 10px; // 19px;
+    }
+
+    h4 {
+      font-weight: bold;
+      text-transform: uppercase;
+    }
+
+    .post-list {
+      .sb-post-item, .page-link {
+        font-size: 0.75em;
+        margin: 3px 0; // -1em;
+        padding: 3px 0.5em;
+      }
+      .sb-post-meta {
+        color: $brand-color-dark;
+      }
+      .active {
+        background-color: $brand-color; // a:visited => change in _base.scss
+        // color: $background-color;
+        a {
+          color: $background-color;
+        }
+      }
+    }
+  }
+}
+
+.btn-success {
+    background-color: #5bb65b;
+    background-image: -moz-linear-gradient(top, #62c462, #51a351);
+    background-image: -ms-linear-gradient(top, #62c462, #51a351);
+    background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#62c462), to(#51a351));
+    background-image: -webkit-linear-gradient(top, #62c462, #51a351);
+    background-image: -o-linear-gradient(top, #62c462, #51a351);
+    background-image: linear-gradient(top, #62c462, #51a351);
+    background-repeat: repeat-x;
+    border-color: #51a351 #51a351 #387038;
+    border-color: rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.1) fadein(rgba(0, 0, 0, 0.1), 15%);
+    * background-color:#51a351;
+    filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#FF62C462, endColorstr=#FF51A351, GradientType=0);
+    filter:progid:DXImageTransform.Microsoft.gradient(enabled = false)
+}
+
+.btn-success:hover, .btn-success:active, .btn-success.active, .btn-success.disabled, .btn-success[disabled] {
+    background-color: #51a351;
+    * background-color:#499249
+}
+
+.btn-success:active, .btn-success.active {
+    background-color:#408140 \9
+}
+
+.w50 {
+  @media screen and (min-width: $on-medium) {
+    max-width: 50%;
+  }
+}

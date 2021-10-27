@@ -1,0 +1,30 @@
+{%- comment -%}
+  Print out Previous/Next post links.
+  Usage: {% include prev_next_post.html %}
+  See: https://www.sylvaindurand.org/making-jekyll-multilingual/
+{%- endcomment -%}
+
+{%- for post in posts -%}
+  {%- if post.lang == current_lang -%}
+    {%- if prev -%}
+      <a href="{{ post.url }}">{{ site.data.t[current_lang].posts.prev }}</a>
+    {%- endif -%}
+    {%- assign prev = false -%}
+    {%- if post.id == page.id -%}
+      {%- assign prev = true -%}
+    {%- endif -%}
+  {%- endif -%}
+{%- endfor -%}
+
+{%- for post in posts reversed -%}
+  {%- if post.lang == current_lang -%}
+    {%- if next -%}
+      <a href="{{ post.url }}">{site.data.t[current_lang].posts.next }}</a>
+      {%- break -%}
+    {%- endif -%}
+    {%- assign next = false -%}
+    {%- if post.id == page.id -%}
+      {%- assign next = true -%}
+    {%- endif -%}
+  {%- endif -%}
+{%- endfor -%}

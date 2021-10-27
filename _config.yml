@@ -1,0 +1,175 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+title: ESG-Business
+email: info@foodefficiency.eu
+description: >- # this means to ignore newlines until "baseurl:"
+  ESG in Business - Your professional business partner for quality,
+  environmental and CSR related tasks
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://wwww.esg-business.eu" # the base hostname & protocol for your site, e.g. http://example.com
+# SEO Tags
+# See: https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
+# tagline:
+# author:
+# image: /assets/img/...
+# logo: /assets/img/foodefficiency-logo.png
+# social:
+#   name: Karin E. Hansen
+#   links:
+#     - http://linkedin.com/karin-hansen-a14446
+# google_site_verification:
+# webmaster_verifications:
+#   ...
+# twitter_username: jekyllrb
+# github_username:  jekyll
+
+# Build settings
+markdown: kramdown
+theme: minima
+# remote_theme: FoodEfficiency/minima
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-redirect-from
+  - jekyll-regex-replace
+social_links:
+  email: info@foodefficiency.eu
+  email_subject: Kontakt via hjemmeside
+  linkedin: company/foodefficiency
+  phone: +45 2987 8494
+
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - LICENSE
+  - README.md
+
+# Custom headers
+webrick:
+  headers:
+    # Content-Security-Policy: default-src 'none'; script-src 'self'; connect-src 'self'; img-src 'self'; style-src 'self';
+    Content-Security-Policy: default-src 'none'; script-src 'self' 'unsafe-inline'; connect-src 'self'; img-src 'self'; style-src 'self' 'unsafe-inline'; frame-ancestors 'self' https://drive.google.com; child-src https://drive.google.com; media-src 'self' https://drive.google.com
+# <meta http-equiv="X-Content-Security-Policy" content="default-src 'self' ; script-src 'self' ; style-src 'self' ; img-src 'self' ; font-src 'self' ; connect-src 'self' ; media-src 'self' ; object-src 'self' ; child-src 'self' ; frame-ancestors 'self' https://drive.google.com; form-action 'none' ; sandbox allow-same-origin allow-scripts allow-pointer-lock;" />
+
+
+# I18n - default language and definitions
+# jekyll-multiple-languages-plugin or jekyll-polyglot settings:
+default_lang: "da"
+# default_locale_in_subfolder: true
+# exclude_from_localizations: ["javascript", "images", "css", "scripts", "favicon.ico"]
+languages: ["da", "en"]
+# lang_from_path: true
+# parallel_localization: true
+
+# News / Posts
+# Note: pagination cannot be used with permalink!
+# paginate: 12
+# paginate_path: "/news/page:num/" # will read news/index.html (not translated?)
+show_excerpts: true
+sidebar_posts_date_format: "%b %Y"
+sidebar_posts_limit: 3
+
+# New directory structure
+# collections_dir: ""
+collections:
+  da:
+    output: true
+    # relative_directory: _pages/da
+    # permalink: /:collection/:slug
+    # sort_by: index
+    # pages:
+    #   sort_by: index
+    #   order:
+    #     - references.md
+    #     - links.md
+    #     - about.md
+  en:
+    output: true
+    permalink: /:collection/:slug
+    # sort_by: index
+
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+    values:
+      layout: "default"
+      comments: false
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "page"
+      comments: false
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+  -
+    scope:
+      path: ""
+      type: "da"
+    values:
+      layout: "page"
+  -
+    scope:
+      path: "_da"
+      type: "da"
+    values:
+      # collection: "da"
+      layout: "page"
+      lang: "da"
+      permalink: "/:slug"
+  -
+    scope:
+      path: "_posts/da"
+    values:
+      layout: "post"
+      lang: "da"
+      # permalink: /da/post/:slug
+      permalink: /news/:slug
+  -
+    scope:
+      path: ""
+      type: "en"
+    values:
+      layout: "page"
+  -
+    scope:
+      path: "_en"
+      type: "en"
+    values:
+      layout: "page"
+      lang: "en"
+      permalink: "/en/:slug"
+  -
+    scope:
+      path: "_posts/en"
+    values:
+      layout: "post"
+      lang: "en"
+      permalink: /en/news/:slug

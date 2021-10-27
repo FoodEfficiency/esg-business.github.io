@@ -1,0 +1,20 @@
+{%- assign parent_page = locale_pages | where: "lang", current_lang | where: "ref", page.menu | first -%}
+{%- assign child_pages = locale_pages | sort: 'index' | where: "lang", current_lang | where: "menu", page.ref -%}
+
+{%- if parent_page or child_pages -%}
+  <span class="nav breadcrumbs">
+  {%- if parent_page -%}
+    {%- if parent_page.placeholder -%}
+      <em>{{ parent_page.title | escape }}</em>
+    {%- else -%}
+      <a href="{{ parent_page.url | relative_url }}">{{ parent_page.title | escape }}</a>
+    {%- endif -%}
+    &nbsp;>>&nbsp;
+  {%- endif -%}
+  <strong>{{ page.title | escape }}</strong>
+  {%- for child_page in child_pages -%}
+    &nbsp;>>&nbsp;
+    <a href="{{ child_page.url | relative_url }}">{{ child_page.title | escape }}</a>
+  {% endfor %}
+  </span>
+{%- endif -%}

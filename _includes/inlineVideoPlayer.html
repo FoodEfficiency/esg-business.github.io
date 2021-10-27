@@ -1,0 +1,26 @@
+{% assign v_id = random_hex_string 6 %}
+<div class="embed-container">
+  <video id="vid_{{include.id}}_{{v_id}}" width="640" height="360" autoplay>
+    <source src="{{ include.file }}" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+  <div class="actions">
+  </div>
+</div>
+<div class="embed-video-actions" style="text-align:center">
+  <!-- TODO: styling; full-width menu bar; icons? -->
+  <button onclick="playPause('vid_{{include.id}}_{{ v_id}}')">Play/Pause</button>
+  <!-- TODO: open in new window -->
+</div>
+<br>
+
+<script>
+function playPause(video_id) {
+  var myVideo = document.getElementById(video_id);
+  if (myVideo.paused)
+    // TODO: pause all playing videos
+    myVideo.play();
+  else
+    myVideo.pause();
+}
+</script>
