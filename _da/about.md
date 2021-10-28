@@ -19,11 +19,13 @@ Fortiden kan man ikke løbe fra.....
 
 Min viden fra globale forsyningskæder om gensidige afhængighed, sporbarhed, dokumentation, miljømæssigt og socialt ansvar stammer fra Arla Foods, SPX Technology samt min tid hos LEGO.
 
-Det samme gælder min viden om LivsCyklusAnalyser fra da Arla præsenterede sin første af slagsen i år 2000 - mit fokus var ikke blot at se på energi og vandforbrug i produktionen men lige så meget at sikre optimal værdiudnyttelse af råvaren med fokus på kvalitet, emballage samt opbevarings- og forbrugsvaner ud til slutbruger.
+Det samme gælder min viden om **LivsCyklusAnalyser** fra da Arla præsenterede sin første af slagsen i år 2000 - mit fokus var ikke blot at se på energi og vandforbrug i produktionen men lige så meget at sikre optimal værdiudnyttelse af råvaren med fokus på kvalitet, emballage samt opbevarings- og forbrugsvaner ud til slutbruger.
+
+Sidenhen har jeg også arbejdet med indledende CO2 kortlægning samt bæredygtighedsrapportering for små og mellemstore virksomheder.
 
 Jeg har derfor valgt at samle mine erfaringer og kompetencer indenfor klima, bæredygtighed og ESG området under navnet "ESG in Business" og håber derved at kunne nå ud til flere sektorer.
 
-Fødevareaktiviteterne bibeholdes i Food Efficiency hvor jeg fortsat er på FVST's liste over godkendte rådgivere samt varetager div kvalitets, miljø- og arbejdsmiljøopgaver for små og mellemstore fødevareproducenter. 
+Fødevareaktiviteterne bibeholdes i FoodEfficiency hvor jeg fortsat er på FVST's liste over godkendte rådgivere samt varetager div kvalitets, miljø- og arbejdsmiljøopgaver for små og mellemstore fødevareproducenter. 
 
 Tidligere ansættelsesforhold og opgaver [fremgår af CV][2] samt LinkedIn profil [https://www.linkedin.com/company/foodefficiency][3]
 
