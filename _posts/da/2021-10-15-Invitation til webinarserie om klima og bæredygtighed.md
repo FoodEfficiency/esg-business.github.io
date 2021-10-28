@@ -20,8 +20,11 @@ De færreste virksomheder starter dog på bar bund men har allerede implementere
 Vi udbyder derfor en serie af fire webinars, hvor Jeres virksomhed kan blive klogere på bæredygtighed, under følgende overskrifter;
 
  **1. Introduktion til bæredygtighed og værdiskabelse**
+ 
  **2. Klima og bæredygtighed – direkte og indirekte påvirkninger (scope 1, 2 og 3)**
+ 
  **3. Bæredygtighedsfokus med udgangspunkt i dansk lovgivning og ledelsessystemer**
+ 
  **4. Kommunikation af bæredygtighed (intern og eksterne)**
 
 
