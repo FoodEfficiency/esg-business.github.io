@@ -23,7 +23,7 @@ Det samme gælder min viden om **LivsCyklusAnalyser** fra da Arla præsenterede 
 
 Sidenhen har jeg også arbejdet med indledende CO2 kortlægning samt bæredygtighedsrapportering for små og mellemstore virksomheder.
 
-Jeg har derfor valgt at samle mine erfaringer og kompetencer indenfor klima, bæredygtighed og ESG området under navnet "ESG in Business" og håber derved at kunne nå ud til flere sektorer.
+Jeg har derfor valgt at samle mine erfaringer og kompetencer indenfor klima, bæredygtighed og ESG-området under navnet "ESG in Business" og håber derved at kunne nå ud til flere sektorer.
 
 Fødevareaktiviteterne bibeholdes i FoodEfficiency hvor jeg fortsat er på FVST's liste over godkendte rådgivere samt varetager div kvalitets, miljø- og arbejdsmiljøopgaver for små og mellemstore fødevareproducenter. 
 
