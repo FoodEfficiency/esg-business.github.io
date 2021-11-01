@@ -1,11 +1,11 @@
 ---
-title: ESG og ledelsessystemer
+title: ESG og ledelse
 index: 2
 menu: header
 permalink: /esg-og-ledelse
 ref: sustainability
 ---
-# ESG og ledelse
+# ESG og ledelsessystemer
 
 Mange virksomheder arbejder allerede med ESG og bæredygtighed i regi af eksisterende lovkrav eller ledelsessystemer. Det er derfor vigtigt at bygge videre på det eksisterende fundament og sikre forankring og værdiskabelse på tværs af organisationen - under hensyntagen til bæredygtighedsprincipperne. 
 
