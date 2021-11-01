@@ -19,7 +19,7 @@ Med mindre der er specifikke sektor eller kundekrav er det vores anbefaling at t
 
 
 
-<img width="207" alt="image" src="https://user-images.githubusercontent.com/75361000/139690616-88511828-c3d6-4e4b-8eac-53b0e2771489.png#pull-right">
+<img width="207" alt="image" src="https://user-images.githubusercontent.com/75361000/139690616-88511828-c3d6-4e4b-8eac-53b0e2771489.png#pull-left">
 
 Når datarapportering efterfølgende skal med i rapporten anbefales det at anvende definitioner og KPI'er fra Global Reporting Initiave - ligeledes under FN's programmer. 
 
