@@ -6,6 +6,8 @@ permalink: /kortlaegning
 ref: assessment
 ---
 
+# Kortlægning
+
 ESG, klima og bæredygtighed kan være svære områder at komme igang med - men det behøver det ikke nøvendigvis. 
 
 <img width="179" alt="Screenshot 2021-11-01 at 14 48 04 copy" src="https://user-images.githubusercontent.com/75361000/139681998-582ee924-b2ce-4b22-9d27-b02b22c52aba.png">
@@ -41,4 +43,3 @@ Inden man starter med de indkøb og ydelser der påvirker scope 3 skal man nøje
 Hvad der er relevant dokumentation afhænger af virksomhedstypen. 
 For vidensbaserede tjenester / rådgivere kan det være transport ud til kunder og konferencer, og for webshops vil forsendelsesemballage og transport ofte være en væsentlig påvirkning. For fremstillingsvirksomheder vil vandforbrug, emballage og affalsdhåndtering, sammen med råvarekøb, udgøre en stor andel af scope 3.
 
-# Kortlægning
