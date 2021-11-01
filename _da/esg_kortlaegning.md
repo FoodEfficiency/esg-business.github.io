@@ -17,7 +17,7 @@ Hos **ESG in Business** vil vi gerne gøre det nemt for virksomheder og organisa
 - Klima og CO2
 - Miljø og Biodiversitet 
 - Arbejdsmiljø, Sikkerhed og Trivsel
-- Medarbejderer og Kompetencerr
+- Medarbejdere og Kompetencer
 - Varer og Materialer
 - Indkøb af Transport og andre Serviceydelse
 - Virksomhed og Etik
