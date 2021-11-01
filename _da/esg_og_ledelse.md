@@ -16,7 +16,7 @@ Tilsvarende kan man arbejde med miljøledelse efter ISO 14001 hvhorved man risik
 
 En ISO 9001 for kvalitetsledelse give klare definitioner af processer, værdier, løbende overvågning og evaluering, så organisationen har et anerkendt og grundlæggende styringsværktøj. Også områder er er af relevant under hensyntagen til bæredygtighedsprincipperne i virksomheden og i samarbejdet med dens leverandører. 
 
-<img width="442" alt="ESG og ISO copy" src="https://user-images.githubusercontent.com/75361000/139695440-e6983f3d-dd04-430d-b6f9-1892c0cd7eda.png">
+<img width="642" alt="ESG og ISO copy" src="https://user-images.githubusercontent.com/75361000/139695440-e6983f3d-dd04-430d-b6f9-1892c0cd7eda.png">
 
 Der er derfor mange gode synergier imellem arbejdet med ledelse, ledelsesstandarder og ESG hvilket er illustretet i ovenstående sammenhæng imellem ISO standardernes opbygning og FN's verdendsmål. 
 
