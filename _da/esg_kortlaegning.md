@@ -34,8 +34,7 @@ Kortlægningen understøttes naturligvis af FN's Verdesmål samt ESG taksonomi s
 **ESG in Business** kan hjælpe Jer med en indledende CO2 kortlægning hvor vi anvender Erhvervsstyrelsens CO2 beregner, som vi har stor erfaring med. 
 Det anbefales at der i første omgang tages der udgangspunkt i de forbrug I har som vedrører scope 1 og 2, dvs. Jeres forbrug af varme, elektricitet, kølegasser og brændstof, og at dette baseres på mængdeopgivelser fra Jeres leverandører.
 
-
-<img width="702" alt="Scope 1, 2 and 3" src="https://user-images.githubusercontent.com/75361000/139693362-8aa9f557-0a87-4c10-8b5b-6c74ec3afa41.png">
+<img width="351" alt="Scope 1, 2 and 3" src="https://user-images.githubusercontent.com/75361000/139693532-cec9007b-a520-4ea7-a0e7-ee498d01fb4c.png">
 
 Inden man starter med de indkøb og ydelser der påvirker scope 3 skal man nøje hvilke der er relevante, da det kan være meget ressourcekrævende at fremskaffe den relevant dokumentation.  
 
