@@ -5,6 +5,7 @@ menu: header
 permalink: /esg-og-ledelse
 ref: sustainability
 ---
+# ESG og ledelse
 
 Mange virksomheder arbejder allerede med ESG og bæredygtighed i regi af eksisterende lovkrav eller ledelsessystemer. 
 
@@ -20,4 +21,4 @@ En ISO 9001 for kvalitetsledelse give klare definitioner af processer, værdier,
 
 Der er derfor mange gode synergier imellem arbejdet med ledelse, ledelsesstandarder og ESG hvilket er illustretet i ovenstående sammenhæng imellem ISO standardernes opbygning og FN's verdendsmål. 
 
-# ESG og ledelse
+
