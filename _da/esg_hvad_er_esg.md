@@ -9,7 +9,7 @@ ref: what
 # Hvad er ESG?
 
 
-ESG står for Environmental and Social Governance og er et bredere udtryk en CSR (corporate social responsibility) som vi længe har talt om. Der er her en tydelig forpligtelse for både klima og miljø samt socialt ansvar og dækker derfor bredere over mod FN's 17 Verdensmål.
+ESG står for Environmental and Social Governance og er et bredere udtryk end CSR (Corporate Social Responsibility) som vi længe har talt om. Der er her en tydelig forpligtelse for både klima og miljø samt socialt ansvar, og dækker derfor bredere over mod FN's 17 Verdensmål.
 
 <img width="747" alt="FoodEfficiency and 17 SDG" src="https://user-images.githubusercontent.com/75361000/139251300-81bca778-3cd1-40bb-ae8f-481072eb9b9d.png">
 
