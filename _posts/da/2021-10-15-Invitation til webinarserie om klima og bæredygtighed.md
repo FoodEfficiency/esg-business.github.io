@@ -131,3 +131,5 @@ document.getElementById("contact_submit").addEventListener("click", function(eve
 });
 </script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/axios/0.18.0/axios.min.js"></script>
+
+Opstår der problemer med tilmelding så brug venligst vores kontaktformular eller send en email til info@foodefficiency.eu
