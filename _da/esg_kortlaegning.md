@@ -38,8 +38,8 @@ Det anbefales at der i første omgang tages der udgangspunkt i de forbrug I har 
 
 <img width="351" alt="Scope 1, 2 and 3" src="https://user-images.githubusercontent.com/75361000/139693532-cec9007b-a520-4ea7-a0e7-ee498d01fb4c.png">
 
-Inden man starter med de indkøb og ydelser der påvirker scope 3 skal man nøje hvilke der er relevante, da det kan være meget ressourcekrævende at fremskaffe den relevant dokumentation.  
+Inden man starter med de indkøb og ydelser der påvirker scope 3 skal man nøje hvilke af disse der er relevante, da det kan være meget ressourcekrævende at fremskaffe den rette dokumentation.  
 
 Hvad der er relevant dokumentation afhænger af virksomhedstypen. 
-For vidensbaserede tjenester / rådgivere kan det være transport ud til kunder og konferencer, og for webshops vil forsendelsesemballage og transport ofte være en væsentlig påvirkning. For fremstillingsvirksomheder vil vandforbrug, emballage og affalsdhåndtering, sammen med råvarekøb, udgøre en stor andel af scope 3.
+For vidensbaserede tjenester / rådgivere kan det være transport ud til kunder og konferencer, og for webshops vil forsendelsesemballage og transport ofte være en væsentlig påvirkning. For fremstillingsvirksomheder vil vandforbrug, emballage og affaldshåndtering, sammen med råvarekøb, udgøre en stor andel af scope 3.
 
