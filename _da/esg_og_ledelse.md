@@ -7,7 +7,7 @@ ref: sustainability
 ---
 # ESG og ledelse
 
-Mange virksomheder arbejder allerede med ESG og bæredygtighed i regi af eksisterende lovkrav eller ledelsessystemer. 
+Mange virksomheder arbejder allerede med ESG og bæredygtighed i regi af eksisterende lovkrav eller ledelsessystemer. Det er derfor vigtigt at bygge videre på det eksisterende fundament og sikre forankring og værdiskabelse på tværs af organisationen - under hensyntagen til bæredygtighedsprincipperne. 
 
 F.eks. Arbejdsmiljølovens krav til arbedsmiljødrøftelse og arbejdspladsvurdering, samt at ulykker rapporteres og der gennemføres en årsagsanalyse. Disse krav kan være opfyldt via ledelse og suppleret med en certificering iht. ISO45001 om arbejdsmiljøledelse. 
 
