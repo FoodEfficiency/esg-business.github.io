@@ -37,6 +37,6 @@ Det anbefales at der i første omgang tages der udgangspunkt i de forbrug I har 
 Inden man starter med de indkøb og ydelser der påvirker scope 3 skal man nøje hvilke der er relevante, da det kan være meget ressourcekrævende at fremskaffe den relevant dokumentation.  
 
 Hvad der er relevant dokumentation afhænger af virksomhedstypen. 
-For vidensbaserede tjenester / rådgivere kan det være transport ud til kunder og konferencer, og for webshops vil forsendelsesemballage og transport ofte være en væsentlig påvirkning. For fremstillingsvirksomheder vil vandforbrug og emballage sammen med råvarekøb udgøre en stor andel af scope 3.
+For vidensbaserede tjenester / rådgivere kan det være transport ud til kunder og konferencer, og for webshops vil forsendelsesemballage og transport ofte være en væsentlig påvirkning. For fremstillingsvirksomheder vil vandforbrug, emballage og affalsdhåndtering, sammen med råvarekøb, udgøre en stor andel af scope 3.
 
 # Kortlægning
