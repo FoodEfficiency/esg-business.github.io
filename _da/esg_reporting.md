@@ -11,7 +11,7 @@ ref: reporting
 Der er mange måder at kommunikere og rapportere sin bæredygtighedsindsats på, og mange forskellige programmer man kan tilslutte sig. 
 
 Ved The International Institute for Sustainable Development (IISD) seneste opgørelse fra februar 2021 over bæredygtighedsstandarder fandtes der over 400 forskellige standarder og programmer - og tallet er fortsat stigende. 
-Man skal derfor nøje overveje hvilke(t) program(mer) man ønsker at tilslutte sig og hvorledes man vil kommunikere sin bæredygtighedsindsats på. 
+Man skal derfor nøje overveje hvilke(t) program(mer) man ønsker at tilslutte sig og hvorledes man vil kommunikere sin bæredygtighedsindsats. 
 
 <img width="219" alt="Screenshot 2021-11-01 at 15 49 52" src="https://user-images.githubusercontent.com/75361000/139691036-e78266fd-000d-42f2-8542-c4cf2f181623.png#pull-right">
 
@@ -27,4 +27,4 @@ Ved rapportering er det vigtigt at denne er transparent og retvisende, og at så
 
 
 
-Har man konkrete produkter man ønske at markedsføre som bæredygtige skal man være opmærksom på kravene i markedsføringsloven om grøn markedsføring. Der skal foreligge uafhængige data for en sådan markedsføring og referer man til specifikke mærkningsordninger skal man sikre sig at de er relevant. F.eks. foreligger der mange misforståelser om Øko-tex ordningen som mange fejlagtigt tror betyder økologiske varer, men som betyder at det er testet for sundhedsskadelige kemi.
+Har man konkrete produkter man ønske at markedsføre som bæredygtige skal man være opmærksom på kravene i markedsføringsloven om grøn markedsføring. Der skal foreligge uafhængige data for en sådan markedsføring og refererer man til specifikke mærkningsordninger skal man sikre sig at det er relevant. F.eks. foreligger der mange misforståelser om Øko-tex ordningen som mange fejlagtigt tror betyder økologiske varer, men som betyder at det er testet for sundhedsskadelig kemi.
