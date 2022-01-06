@@ -15,7 +15,7 @@ Mange virksomheder har arbejdet hermed i årevis uden at tænke nærmere over de
 Hos **ESG in Business** vil vi gerne gøre det nemt for virksomheder og organisationer at komme godt igang med ESG og bæredygtighed. Vi har derfor lavet et simpelt screening værktøj der tager udganspunkt i følgende områder:
 
 
-<img width="179" alt="ESG tool" src="https://user-images.githubusercontent.com/75361000/139681998-582ee924-b2ce-4b22-9d27-b02b22c52aba.png#pull-right">
+<img width="1794" alt="ESG tool" src="https://user-images.githubusercontent.com/75361000/148349186-cc272edf-9936-4971-95e6-e806e49810df.png#pull-right"
 
 
 - Klima og CO2
