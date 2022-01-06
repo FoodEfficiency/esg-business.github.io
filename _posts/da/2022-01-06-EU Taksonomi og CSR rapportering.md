@@ -22,6 +22,6 @@ Tidligere har det kun været store virksomheder med over 500 ansatte der skulle 
 
 For virksomheder med over 250 ansatte er det derfor vigtigt at de allerede nu foretager en bæredygtighedskortlægning med det formål at identificere de områder og data der skal indgå i den nye ikke-finansielle rapportering. 
 
-ESG-in-Business har til det formål udviklet et ESG screeings værktøj som er en indledende kortlægning af Jeres aktiviteter og dokumentation. Denne indledende kortlægning kan følges op af en CO2-kortlægning (scope 1 og 2) samt rapportering iht. GRI og Global Compact.
+ESG-in-Business har til det formål udviklet et ESG screeingsværktøj som er en indledende kortlægning af Jeres aktiviteter og dokumentation. Denne indledende kortlægning kan følges op af en CO2-kortlægning (scope 1 og 2) samt rapportering iht. GRI og Global Compact.
 
 Bliv forberedt til morgendagens rapporteringskrav og kontakt os for en uforpligtende dialog og tilbud på kortlægning. 
