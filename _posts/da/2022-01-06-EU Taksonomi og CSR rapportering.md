@@ -13,7 +13,7 @@ Hermed indføres et ’dobbelt væsentlighedsperspektiv’, hvilket betyder, at 
 
 Derudover sker der en skærpelse i at det ikke længere er virksomhederne der selv udpeger hvilke områder de mener der er vigtigt og skal rapporteres på, med det formal at højne kvalitet og pålidelig offentlig rapportering fra virksomheder vil bidrage til at skabe en kultur med større offentlig ansvarlighed. 
 
-Der skal fremover rapporteres på følgende områder og det forventes at lægge tæt op af anerkendte rapporteringsstandarder som f.eks. Global Reporting Initiativ (GRI).
+Der skal fremover rapporteres på nedenståend områder og det forventes at de enklte rapporteringsparametre lægge tæt op af anerkendte rapporteringsstandarder som f.eks. Global Reporting Initiativ (GRI).
 
  <img width="645" alt="Screenshot 2022-01-06 at 10 19 04" src="https://user-images.githubusercontent.com/75361000/148363460-e93983c7-4662-4d2c-b461-3b21507fd653.png">
 
