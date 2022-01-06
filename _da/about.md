@@ -32,7 +32,7 @@ Tidligere ansættelsesforhold og opgaver [fremgår af CV][2] samt LinkedIn profi
 
 [1]: /assets/images/K_Hansen.png#pull-right#w360 "ESG in Business v/karin Hansen"
 [2]: /assets/publications/KEH%20CV%20QEHS%20and%20CSR%20development.pdf "KEH CV QEHS and CSR Development "
-[3]: https://www.linkedin.com/in/karin-hansen-a14446/ "https://www.linkedin.com/company/esg-in-business"
+[3]: https://www.linkedin.com/company/esg-in-business "https://www.linkedin.com/company/esg-in-business"
 
 
 
