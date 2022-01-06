@@ -33,3 +33,5 @@ Her opstilles en række parametre der er med til at identificere en sårbarhed/r
 ** Logistik og opbevaring – fly/vej/skib
 
 Slutteligt kan man også sende spørgeskemaer eller foretage audits hos en leverandør. Man kan også bede dem tilmelde sig anerkendte organisationer for bæredygtighedsvurdering, kontrol og/eller rapportering f.eks. SEDEX / EcoVadis / B Cert eller rapportering under Global Compact.  
+
+Under FN's Global Reporting Initiative findes standarder for hhv. Supplier Environmental Assessment  (GRI 308) og Supplier Social Assessment (GRI 414)  - begge kan downloades gratis fra deres hjemmeside.
