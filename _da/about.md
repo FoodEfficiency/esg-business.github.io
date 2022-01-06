@@ -27,11 +27,12 @@ Jeg har derfor valgt at samle mine erfaringer og kompetencer indenfor klima, bæ
 
 Fødevareaktiviteterne bibeholdes i FoodEfficiency hvor jeg fortsat er på FVST's liste over godkendte rådgivere samt varetager div kvalitets, miljø- og arbejdsmiljøopgaver for små og mellemstore fødevareproducenter. 
 
-Tidligere ansættelsesforhold og opgaver [fremgår af CV][2] samt LinkedIn profil [https://www.linkedin.com/company/foodefficiency][3]
+Tidligere ansættelsesforhold og opgaver [fremgår af CV][2] samt LinkedIn profil [https://www.linkedin.com/company/esg-in-business][3]
+
 
 [1]: /assets/images/K_Hansen.png#pull-right#w360 "ESG in Business v/karin Hansen"
 [2]: /assets/publications/KEH%20CV%20QEHS%20and%20CSR%20development.pdf "KEH CV QEHS and CSR Development "
-[3]: https://www.linkedin.com/in/karin-hansen-a14446/ "https://www.linkedin.com/company/foodefficiency"
+[3]: https://www.linkedin.com/in/karin-hansen-a14446/ "https://www.linkedin.com/company/esg-in-business"
 
 
 
