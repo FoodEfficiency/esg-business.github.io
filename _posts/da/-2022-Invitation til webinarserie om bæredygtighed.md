@@ -9,13 +9,11 @@ ref: webinar
 
 ![Klima og bæredygtighed billede](/assets/images/Invitation-ESG.png#home-bg)
 
-**Klima og den grønne dagsorden** er ikke blot en udfordring men også en mulighed for at din virksomhed eller organisation kan differentiere sig på det lokale såvel som globale marked.
+Klima og den grønne dagsorden giver din virksomhed eller organisation mulighed for at differentiere sig både på det lokale og det globale marked. 
 
-Det stiller nye og foranderlige krav til virksomheder om at efterleve omverdens krav samt forventninger til bæredygtighed. Samtidig forventer kunderne at virksomheden arbejder med øget fokus på grøn omstilling, bæredygtighed og samfundsansvar.
+Klimadagsordenen er nemlig ikke kun et benspænd. Der stilles nye og foranderlige krav til din virksomhed om at efterleve omverdens krav og forventninger til bæredygtighed. Dine kunder og investorer forventer, at I arbejder med øget fokus på grøn omstilling, bæredygtighed og samfundsansvar.
 
-De færreste virksomheder starter dog på bar bund men har allerede implementeret initiativer og processer som understøtter FN’s verdensmål. Dette med udgangspunkt i lovkrav, krav fra ledelsessystemer samt teknologi og best practice. Det er derfor vigtigt at bygge videre på det eksisterende fundament og sikre forankring og værdiskabelse på tværs af organisationen, under hensyntagen til bæredygtighedsprincipperne.
-
-**ESG in Business** kan hjælpe din virksomhed med kortlægning og identifikation af fokusområder der understøtter klimaet og bæredygtig udvikling på tværs af organisationen.
+**ESG in Business**  har 25 års erfaring i at navigere i klima- og bæredygtighedsdagsordenen. Vi får hurtigt øje på potentialer, og vi kan hjælpe din virksomhed med kortlægning og identifikation af fokusområder til at understøtte klimaet og bæredygtig udvikling på tværs af organisationen. I kan nemlig bygge videre på jeres eksisterende fundament og sikre forankring og værdiskabelse på tværs af organisationen under hensyntagen til bæredygtighedsprincipperne. 
 
 Vi udbyder derfor en serie af fire webinars, hvor Jeres virksomhed kan blive klogere på bæredygtighed, under følgende overskrifter;
 
@@ -28,9 +26,9 @@ Vi udbyder derfor en serie af fire webinars, hvor Jeres virksomhed kan blive klo
  **4. Kommunikation af bæredygtighed (intern og eksterne)**
 
 
-Webinarene er rettet mod ejere såvel som produktions-, kvalitets- og salgschefer i små og mellemstore virksomheder, der interesserer sig hvordan bæredygtighed kan være med til skabe værdi for organisationen.
+Webinarene er rettet mod virksomhedsejere såvel som produktions-, kvalitets- og salgschefer i små og mellemstore virksomheder.
 
-Webinarene er gratis og har hver en varighed af ca. 30 minutter med efterfølgende 15 min til spørgsmål og uddybende kommentarer.
+Deltagelse er gratis, der er plads til max 12  deltagere. Hvert webinar har en varighed af ca. 30 minutter med efterfølgende 15 min til spørgsmål og uddybende kommentarer.
 
 Tilmelding sker via formularen nedenfor.
 
