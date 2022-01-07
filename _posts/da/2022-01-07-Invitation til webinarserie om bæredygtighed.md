@@ -8,9 +8,8 @@ ref: webinar
 ---
 
 
-![Webinar Winter](https://user-images.githubusercontent.com/75361000/148521981-609427de-fe2e-4ade-bb7a-7571258c0a6b.jpg)
 
-![Klima og bæredygtighed billede](/assets/images/Invitation-ESG.png#home-bg)
+![Winter Seminar](/assets/images/Winter%20Seminar.png)
 
 Klima og den grønne dagsorden giver din virksomhed eller organisation mulighed for at differentiere sig både på det lokale og det globale marked. 
 
