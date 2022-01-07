@@ -59,7 +59,7 @@ Jeg vil gerne tilmeldes følgende datoer:
       </label>
       <label class="checkbox field">
           <input type="checkbox" name="3/2-2022" checked />
-          <span>Torsdag den 3/2 kl 10:00 - Bæredygtighedsfokus med udgangspunkt i lovgivning og ledelsessystemer</span>
+          <span>**Torsdag** den 3/2 kl 10:00 - Bæredygtighedsfokus med udgangspunkt i lovgivning og ledelsessystemer</span>
       </label>
       <label class="checkbox field">
           <input type="checkbox" name="11/2-2022" checked />
