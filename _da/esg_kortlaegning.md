@@ -1,12 +1,14 @@
 ---
-title: Kortlægning
+title: ESG Kortlægning
 index: 3
 menu: header
-permalink: /kortlaegning
+permalink: /esg_kortlaegning
 ref: assessment
+redirect_from:
+  - /kortlaegning
 ---
 
-# Kortlægning
+# ESG Kortlægning
 
 ESG, klima og bæredygtighed kan være svære områder at komme igang med - men det behøver det ikke nøvendigvis. 
 
@@ -15,17 +17,16 @@ Mange virksomheder har arbejdet hermed i årevis uden at tænke nærmere over de
 Hos **ESG in Business** vil vi gerne gøre det nemt for virksomheder og organisationer at komme godt igang med ESG og bæredygtighed. Vi har derfor lavet et simpelt screening værktøj der tager udganspunkt i følgende områder:
 
 
-<img width="179" alt="ESG tool" src="https://user-images.githubusercontent.com/75361000/148349186-cc272edf-9936-4971-95e6-e806e49810df.png#pull-right"
+<img width="179" alt="ESG tool" src="https://user-images.githubusercontent.com/75361000/148349186-cc272edf-9936-4971-95e6-e806e49810df.png#pull-right">
 
-
-- Klima og CO2
-- Miljø og Biodiversitet 
-- Arbejdsmiljø, Sikkerhed og Trivsel
-- Medarbejdere og Kompetencer
-- Varer og Materialer
-- Indkøb af Transport og andre Serviceydelser
-- Virksomhed og Etik
-- Samfundengagement
+- [Klima og CO2](/klima_co2)
+- [Miljø og Biodiversitet] (/moljo_biodiversitet)
+- [Arbejdsmiljø, Sikkerhed og Trivsel](/arbejdsmiljo)
+- [Medarbejdere og Kompetencer](/medarbejdere)
+- [Varer og Materialer](/varer_materialer)
+- [Indkøb af Transport og andre Serviceydelser](/transport_serviceydelser)
+- [Virksomhed og Etik](/virksomhed_etik)
+- [Samfundengagement](/samfundengagement)
 
 Herved får vi kortlagt hvordan I arbejder med disse områder, I får ideer til hvordan I kommer videre og vi tager dialogen om hvordan I kan samarbejde med kunder og leverandører på områderne. 
 
