@@ -34,7 +34,7 @@ Kortlægningen understøttes naturligvis af FN's Verdesmål samt ESG taksonomi s
 
 ===========================================================
 
-**CO<sub>2</sub> kortlægning**
+## CO<sub>2</sub> kortlægning
 
 **ESG in Business** kan også hjælpe Jer med en indledende CO<sub>2</sub> kortlægning hvor vi anvender Erhvervsstyrelsens CO<sub>2</sub> beregner, som vi har stor erfaring med. 
 Det anbefales at der i første omgang tages der udgangspunkt i de forbrug I har som vedrører scope 1 og 2, dvs. Jeres forbrug af varme, elektricitet, kølegasser og brændstof, og at dette baseres på mængdeopgivelser fra Jeres leverandører.
