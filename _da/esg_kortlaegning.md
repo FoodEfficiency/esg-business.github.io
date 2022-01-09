@@ -30,7 +30,7 @@ Hos **ESG in Business** vil vi gerne gøre det nemt for virksomheder og organisa
 
 Herved får vi kortlagt hvordan I arbejder med disse områder, I får ideer til hvordan I kommer videre og vi tager dialogen om hvordan I kan samarbejde med kunder og leverandører på områderne. 
 
-Kortlægningen understøttes naturligvis af FN's Verdesmål samt ESG taksonomi som anbefalet af Erhvervsstyrelsen. 
+Kortlægningen understøttes naturligvis af FN's Verdensmå, EU's grønne taksonomi og krav til ikke-finanielle regnskab samt ESG taksonomi som anbefalet af Erhvervsstyrelsen. 
 
 ===========================================================
 
