@@ -1,7 +1,7 @@
 ---
 title: Varer og Materialer
 index: 5
-menu: esg_kortlaegning
+menu: assessment
 permalink: /varer_materialer
 ---
 

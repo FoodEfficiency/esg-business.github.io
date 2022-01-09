@@ -1,7 +1,7 @@
 ---
 title: Medarbejdere og Kompetencer
 index: 4
-menu: esg_kortlaegning
+menu: assessment
 permalink: /medarbejdere
 ---
 

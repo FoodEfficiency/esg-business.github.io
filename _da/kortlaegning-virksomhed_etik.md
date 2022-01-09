@@ -1,7 +1,7 @@
 ---
 title: Virksomhed og Etik
 index: 7
-menu: esg_kortlaegning
+menu: assessment
 permalink: /virksomhed_etik
 ---
 

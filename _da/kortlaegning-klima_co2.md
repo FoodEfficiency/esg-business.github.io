@@ -1,7 +1,7 @@
 ---
 title: Klima og CO2
 index: 1
-menu: esg_kortlaegning
+menu: assessment
 permalink: /klima_co2
 ---
 

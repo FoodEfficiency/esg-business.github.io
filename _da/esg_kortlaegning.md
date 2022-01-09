@@ -20,7 +20,7 @@ Hos **ESG in Business** vil vi gerne gøre det nemt for virksomheder og organisa
 <img width="179" alt="ESG tool" src="https://user-images.githubusercontent.com/75361000/148349186-cc272edf-9936-4971-95e6-e806e49810df.png#pull-right">
 
 - [Klima og CO2](/klima_co2)
-- [Miljø og Biodiversitet] (/moljo_biodiversitet)
+- [Miljø og Biodiversitet](/moljo_biodiversitet)
 - [Arbejdsmiljø, Sikkerhed og Trivsel](/arbejdsmiljo)
 - [Medarbejdere og Kompetencer](/medarbejdere)
 - [Varer og Materialer](/varer_materialer)

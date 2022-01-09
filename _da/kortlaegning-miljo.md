@@ -1,7 +1,7 @@
 ---
 title: Miljø og Biodiversitet
 index: 2
-menu: esg_kortlaegning
+menu: assessment
 permalink: /moljo_biodiversitet
 ---
 

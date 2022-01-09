@@ -1,7 +1,7 @@
 ---
 title: Samfundsengagement
 index: 8
-menu: esg_kortlaegning
+menu: assessment
 permalink: /samfundengagement
 ---
 
