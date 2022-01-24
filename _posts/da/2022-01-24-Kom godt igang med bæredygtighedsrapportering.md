@@ -24,6 +24,6 @@ Værktøjet fokuserer på 8 strategiske områder omhandlende
 Værktøjet tager udgangspunkt i Jeres hverdag og de krav I allerede nu mødes med fra kunder, investorer, lovgivning eller sektorkrav. 
 
 Kontakt os for et uforpligtende møde om hvordan en ESG-screening kan hjælpe Jeres virksomhed i en bæredygtig retning. 
-keh@esg-business.eu eller tlf. 2098 8494
+keh@esg-business.eu eller tlf. 2987 8494
 
 
