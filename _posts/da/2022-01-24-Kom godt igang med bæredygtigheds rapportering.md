@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Kom godt igang med bæredygtighedsrapportering"
+title:  "Kom godt igang med bæredygtigheds rapportering"
 date:   2022-01-24 09:11:00 +0100
 permalink: news/Godt igang med bæredygtighedsrapportering
 ref: tool
