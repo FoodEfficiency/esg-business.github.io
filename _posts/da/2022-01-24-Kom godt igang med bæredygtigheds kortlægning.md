@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Kom godt igang med bæredygtigheds rapportering"
+title:  "Kom godt igang med bæredygtigheds kortlægning"
 date:   2022-01-24 09:11:00 +0100
-permalink: news/Godt igang med bæredygtighedsrapportering
+permalink: news/Godt igang med bæredygtighedskortlægning
 ref: tool
 ---
 **Bæredygtighed er mere end klima og CO2, og fra 2023 kommer der nye EU-krav til virksomhedernes ikke-finansielle rapportering; Bæredygtighedsrapportering.**
