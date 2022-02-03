@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Kom godt igang med bæredygtigheds kortlægning"
-date:   2022-01-24 09:11:00 +0100
+date:   2022-02-01 09:11:00 +0100
 permalink: news/Godt igang med bæredygtighedskortlægning
 ref: tool
 ---
