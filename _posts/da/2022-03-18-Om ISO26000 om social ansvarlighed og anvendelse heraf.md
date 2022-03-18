@@ -31,7 +31,8 @@ Dertil 6 emner der skal vurderes for relevans og væsentlighed i virksomhedens a
 
 Et eksempel på en en materiality matix som er en vigtig del af bæerdygtighedsrapporteringen kan ses her  https://www.nestle.com/sustainability/responsible-business/materiality
 
-ISO26000 kommer vidt omkring bl.a. dyrevelfærd, udfasning af farlig kemi, brug af lokal arbejdskraft (herunder living wage) og lokale varer ved produktion i udlandet. Og naturligvis understøtter standarden også FN's 17 verdensmål. 
+ISO26000 kommer vidt omkring bl.a. dyrevelfærd, udfasning af farlig kemi, brug af lokal arbejdskraft (herunder living wage) og lokale varer ved produktion i udlandet. Og naturligvis understøtter standarden også FN's 17 verdensmål som vist i nedenstående illustration.
+
 <img width="607" alt="ISO26000 and SDG" src="https://user-images.githubusercontent.com/75361000/158990681-f30fda68-ea79-4272-9bd0-19b8e610952a.png">
 
 
