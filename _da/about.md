@@ -1,6 +1,6 @@
 ---
 layout: page
-title: ESG in Business
+title: Om ESG in Business
 titleORIG: Om os
 index: 9
 lang: da
