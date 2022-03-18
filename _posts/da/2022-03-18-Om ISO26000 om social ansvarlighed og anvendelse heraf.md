@@ -21,13 +21,13 @@ Den tager udgangspunkt i 7 principper omhandlende som alle skal indgå i alle vi
 
 
 Dertil 6 emner der skal vurderes for relevans og væsentlighed i virksomhedens aktiviteter f.eks. som et materiality matrix. 
-•	Organisatorisk styring (governance og stakeholders)
-•	Menneskerettigheder 
-•	Arbejdspraksis (sikkerhed og samarbejde)
-•	Miljøet (forebyggelse af forurening samt fokus på klimaændringer)
-•	Fair driftspraksis (konkurrence og produkt/teknologiske rettigheder)
-•	Forbrugerproblemer (forbrugeraftaler, produkt- og datasikkerhed, emballage)
-•	Samfundsinddragelse og udvikling 
+**• Organisatorisk styring (governance og stakeholders)
+**• Menneskerettigheder
+**• Arbejdspraksis (sikkerhed og samarbejde)
+**• Miljøet (forebyggelse af forurening samt fokus på klimaændringer)
+**• Fair driftspraksis (konkurrence og produkt/teknologiske rettigheder)
+**• Forbrugerproblemer (forbrugeraftaler, produkt- og datasikkerhed, emballage)
+**• Samfundsinddragelse og udvikling 
 
 Et eksempel på en en materiality matix som er en vigtig del af bæerdygtighedsrapporteringen kan ses her  https://www.nestle.com/sustainability/responsible-business/materiality
 
