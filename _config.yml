@@ -31,11 +31,11 @@ social:
   links:
     - http://linkedin.com/karin-hansen-a14446
 tagline: Your partner in ESG, CSR and environmental tasks # Fortiden kan man ikke løbe fra...
-twitter:
-  card: summary
 # google_site_verification:
 # webmaster_verifications:
 #   ...
+# twitter:
+#   card: summary
 # twitter_username: jekyllrb
 # github_username:  jekyll
 
