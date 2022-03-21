@@ -12,14 +12,14 @@ ref: tool
 Hos ESG in Business har vi 25 års erfaring med klima og bæredygtighed i globale forsyningskæder og har på baggrund heraf udviklet et kortlægningsværktøj der identificer de potentialer der er for at styrke jeres strategiske udvikling i en bæredygtig retning. 
 
 Værktøjet fokuserer på 8 strategiske områder omhandlende 
-*1	Klima og CO2
-*2	Miljø og biodiversitet 
-*3	Arbejdsmiljø, sikkerhed og trivsel
-*4	Medarbejder og kompetencer
-*5	Indkøb af varer og materialer
-*6	Indkøb af transport og serviceydelser
-*7	Virksomhed og etik
-*8  Samfundsengagement 
+*	Klima og CO2
+*	Miljø og biodiversitet 
+*	Arbejdsmiljø, sikkerhed og trivsel
+*	Medarbejder og kompetencer
+*	Indkøb af varer og materialer
+*	Indkøb af transport og serviceydelser
+*	Virksomhed og etik
+* Samfundsengagement 
 
 Værktøjet tager udgangspunkt i Jeres hverdag og de krav I allerede nu mødes med fra kunder, investorer, lovgivning eller sektorkrav. 
 
