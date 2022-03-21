@@ -5,7 +5,8 @@
 <!-- layout: home_with_bg_image -->
 <!-- title: Home -->
 title: ESG in Business
-image: /assets/img/home_bg.png # /assets/images/K_Hansen.png
+description: Din professionelle samarbejdspartner indenfor Bæredygtighed og Environmental and Social Governance
+image: /assets/images/K_Hansen.png
 image_url: /assets/img/home_bg.png
 lang: da
 permalink: /

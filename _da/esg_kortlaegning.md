@@ -3,10 +3,11 @@ title: ESG&nbsp;Kortlægning
 index: 3
 description: ESG Kortlægning - ESG, klima og bæredygtighed kan være svære områder at komme igang med - men det behøver det ikke nøvendigvis.
 menu: header
-permalink: /esg_kortlaegning
+permalink: /esg-kortlaegning
 ref: assessment
 redirect_from:
   - /kortlaegning
+  - esg_kortlaegning
 ---
 
 # ESG Kortlægning
