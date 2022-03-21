@@ -22,14 +22,17 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://wwww.esg-business.eu" # the base hostname & protocol for your site, e.g. http://example.com
 # SEO Tags
 # See: https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
-# tagline:
-# author:
-# image: /assets/img/...
-# logo: /assets/img/foodefficiency-logo.png
-# social:
-#   name: Karin E. Hansen
-#   links:
-#     - http://linkedin.com/karin-hansen-a14446
+author:
+  image: /assets/images/K_Hansen.png
+  url: http://linkedin.com/karin-hansen-a14446
+logo: /apple-touch-icon.png
+social:
+  name: Karin E. Hansen
+  links:
+    - http://linkedin.com/karin-hansen-a14446
+tagline: Your partner in ESG, CSR and environmental tasks # Fortiden kan man ikke løbe fra...
+twitter:
+  card: summary
 # google_site_verification:
 # webmaster_verifications:
 #   ...
@@ -45,6 +48,7 @@ plugins:
   - jekyll-paginate
   - jekyll-redirect-from
   - jekyll-regex-replace
+  - jekyll-seo-tag
 social_links:
   email: info@esg-business.eu
   email_subject: Kontakt via hjemmeside
@@ -89,6 +93,12 @@ languages: ["da", "en"]
 show_excerpts: true
 sidebar_posts_date_format: "%b %Y"
 sidebar_posts_limit: 3
+
+manifest_name: ESG in Business
+manifest_short_name: ESG # Appears in "Add to home screen" dialogues and may have other importance also
+manifest_lang: en
+manifest_background_color: white
+manifest_display: standalone
 
 # New directory structure
 # collections_dir: ""
