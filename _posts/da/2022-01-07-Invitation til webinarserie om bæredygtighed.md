@@ -2,9 +2,11 @@
 layout: post
 title:  "Invitation til webinarserie om klima og bæredygtighed"
 date:   2022-01-07 09:11:00 +0100
-permalink: news/invitation-til-webinarserie-om-klima-og-bæredygtighed
+permalink: news/invitation-til-webinarserie-om-klima-og-baeredygtighed
 tags: foodefficiency
 ref: webinar
+redirect_from:
+  - news/invitation-til-webinarserie-om-klima-og-bæredygtighed
 ---
 
 

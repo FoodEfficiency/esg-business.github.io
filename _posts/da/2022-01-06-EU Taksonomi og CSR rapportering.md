@@ -2,9 +2,11 @@
 layout: post
 title:  "EU Taksonomi og ikke-finansiel rapportering"
 date:   2022-01-06 09:11:00 +0100
-permalink: news/EU Taksonomi og CSR rapportering
+permalink: news/EU-Taksonomi-og-CSR-rapportering
 tags: ESGinBusiness
 ref: rapportering
+redirect_from:
+  - news/EU Taksonomi og CSR rapportering
 ---
 
 Som en del af EU’s grønne taksonomi kommer I 2022 et nyt direktiv omkring virksomhederes ikke-finansielle rapportering 

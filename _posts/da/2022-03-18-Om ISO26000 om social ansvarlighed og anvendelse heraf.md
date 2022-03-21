@@ -2,9 +2,11 @@
 layout: post
 title:  "Hvad er ISO26000 om social ansvarlighed og hvordan kan den bruges"
 date:   2022-03-18 011:11:00 +0100
-permalink: news/Om ISO26000 og anvendelse heraf
+permalink: news/Om-ISO26000-og-anvendelse-heraf
 tags: foodefficiency
 ref: ISO
+redirect_from:
+  - /news/Om ISO26000 og anvendelse heraf
 ---
 
 ISO26000 standarden fra 2010 er en vejledende standard om social ansvarlighed i relation til virksomheder og organisationer og deres samarbejdspartnere på tværs af forsyningskæden. 
