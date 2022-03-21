@@ -19,7 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   ESG in Business - Your professional business partner for quality,
   environmental and CSR related tasks
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://wwww.esg-business.eu" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://www.esg-business.eu" # the base hostname & protocol for your site, e.g. http://example.com
 # SEO Tags
 # See: https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 author:
