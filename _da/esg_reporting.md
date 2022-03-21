@@ -1,6 +1,7 @@
 ---
 title: Rapportering
 index: 4
+description: Der er mange måder at kommunikere og rapportere sin bæredygtighedsindsats på, og mange forskellige programmer man kan tilslutte sig.
 menu: header
 permalink: /rapportering
 ref: reporting

@@ -1,4 +1,5 @@
 # www.robotstxt.org/
+Sitemap: http://www.esg-business.eu/sitemaps.xml
 
 # Allow crawling of all content
 User-agent: *

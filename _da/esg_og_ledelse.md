@@ -1,6 +1,7 @@
 ---
 title: ESG og ledelse
 index: 2
+description: ESG og Ledelsessystemer
 menu: header
 permalink: /esg-og-ledelse
 ref: sustainability

@@ -1,6 +1,8 @@
 ---
 title: Hvad er ESG?
 index: 1
+description: ESG står for Environmental and Social Governance og er et bredere udtryk end CSR (Corporate Social Responsibility).
+image: /assets/images/K_Hansen.png
 menu: header
 permalink: /hvad-er-esg
 ref: what

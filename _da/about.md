@@ -2,6 +2,8 @@
 layout: page
 title: Om ESG in Business
 titleORIG: Om os
+description: Om os - ESG in Business
+image: /assets/images/K_Hansen.png
 index: 9
 lang: da
 menu: header
