@@ -24,12 +24,12 @@ url: "https://wwww.esg-business.eu" # the base hostname & protocol for your site
 # See: https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 author:
   image: /assets/images/K_Hansen.png
-  url: http://linkedin.com/karin-hansen-a14446
+  url: https://www.linkedin.com/in/karin-hansen-a14446
 logo: /apple-touch-icon.png
 social:
   name: Karin E. Hansen
   links:
-    - http://linkedin.com/karin-hansen-a14446
+    - https://www.linkedin.com/in/karin-hansen-a14446
 tagline: Your partner in ESG, CSR and environmental tasks # Fortiden kan man ikke løbe fra...
 # google_site_verification:
 # webmaster_verifications:
