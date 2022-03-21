@@ -13,7 +13,7 @@ permalink: /sitemaps.xml
           <xhtml:link rel="alternate" hreflang="{{ version.lang }}" href="{{site.url}}{{ version.url }}" />
         {% endfor %}
         <lastmod>{{ post.date | date_to_xmlschema }}</lastmod>
-        <changefreq>weekly</changefreq>
+        <changefreq>daily</changefreq>
       </url>
     {% endif %}
   {% endfor %}
