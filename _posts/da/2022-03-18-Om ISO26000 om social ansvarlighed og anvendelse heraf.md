@@ -22,7 +22,7 @@ Den tager udgangspunkt i 7 principper omhandlende som alle skal indgå i alle vi
 *	Respekt for menneskerettigheder 
 
 
-Dertil 6 emner der skal vurderes for relevans og væsentlighed i virksomhedens aktiviteter f.eks. som et materiality matrix. 
+Dertil 7 emner der skal vurderes for relevans og væsentlighed i virksomhedens aktiviteter f.eks. som et materiality matrix. 
 * Organisatorisk styring (governance og stakeholders)
 * Menneskerettigheder
 * Arbejdspraksis (sikkerhed og samarbejde)
