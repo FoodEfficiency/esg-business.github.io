@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Miljø- og klimaregnskabb - Giver de værdi?"
+title:  "Miljø- og klimaregnskab - Giver de værdi?"
 date:   2022-10-27 011:00:00 +0100
 permalink: news/Miljø- og klimaregnskab - Giver de værdi?
 tags: foodefficiency
-ref: Regnskabb
+ref: Regnskab
 redirect_from:
   - /news/Miljø- og klimaregnskab - Giver de værdi?
 ---
