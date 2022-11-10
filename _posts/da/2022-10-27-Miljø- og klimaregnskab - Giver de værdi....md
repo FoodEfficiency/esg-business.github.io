@@ -2,11 +2,9 @@
 layout: post
 title:  "Miljø- og klimaregnskab - Giver de værdi?"
 date:   2022-10-27 011:00:00 +0100
-permalink: news/Miljø- og klimaregnskab - Giver de værdi?
+permalink: news/miljo_klimaregnskab_-_giver_de_værdi
 tags: foodefficiency
 ref: Regnskab
-redirect_from:
-  - /news/Miljø- og klimaregnskab - Giver de værdi?
 ---
 
 EU’s grønne taxonomi, CSR direktiv og rapportering spøger i overskrifterne – og imens vi endnu venter på de endelige standarder og formater for rapportering - breder rygterne sig om (endnu) et unødvendigt EU bureaukrati. 
