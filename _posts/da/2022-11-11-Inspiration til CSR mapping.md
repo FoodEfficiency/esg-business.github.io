@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Inspiration til bæredygtighedskortlægning"
-date:   2022-01-07 09:11:00 +0100
+date:   2022-11-10 17:11:00 +0100
 permalink: news/invitation-til-CSR-mapping
 tags: foodefficiency
 ref: webinar
