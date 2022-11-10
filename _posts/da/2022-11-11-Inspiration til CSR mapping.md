@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Inspiration til bæredygtighedskortlægning"
+title:  "Inspiration til bæredygtigheds kortlægning"
 date:   2022-11-10 17:11:00 +0100
 permalink: news/invitation-til-CSR-mapping
 tags: foodefficiency
@@ -12,15 +12,15 @@ ref: webinar
 
 ![Inspirations webinar](/assets/images/Invitation%20Inspiration%20.png)
 
-**Kom godt i gang med bæredygtighedskortlægning – nemt, overskueligt og effektivt.**
+**Kom godt i gang med bæredygtighedskortlægning – nemt, overskueligt og effektivt**
 
 Begreberne fyger stadig om os – ESG, zero emission, grøn taxonomi, science based targeting, socialt ansvar, green washing og meget mere. 
 
 Så hvad er op og ned - Og hvad giver mening af fokusere på når man som virksomhed står på en brændende platform med stigende priser på energi, transport, råvarer og mangel på arbejdskraft?
 
-Hos ESG in Business vil vi gerne gøre arbejdet med bæredygtighed nemt, overskueligt og effektivt.
+Hos ESG in Business vil vi gerne hjælpe med at gøre arbejdet med bæredygtighed nemt, overskueligt og effektivt.
 
-På baggrund af over 25 års erfaring med klima og bæredygtighed i globale forsyningskæder, har vi udviklet et værktøj til kortlægning af små og mellemstore virksomheders bæredygtigheds indsats. 
+På baggrund af over 25 års erfaring med klima og bæredygtighed i globale forsyningskæder, har vi udviklet et værktøj til kortlægning af små og mellemstore virksomheders bæredygtighedsindsats. 
 
 Som inspiration til bæredygtighedsarbejdet vil vi gennemgå hovedpunkterne i værktøjet over en række webinarer – sammen med vores bedste tips og links til hvor du kan få mere viden til at skabe værdi på bundlinjen. 
 
@@ -33,7 +33,7 @@ Tilmelding sker via formularen nedenfor
 
 
 
-### Webinarserie - Inspiration til bæredygtighedskortlægning
+## Webinarserie - Inspiration til bæredygtighedskortlægning
 {: #subject}
 
 Jeg vil gerne tilmeldes følgende datoer:
