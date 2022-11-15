@@ -10,6 +10,8 @@ ref: Regnskab
 EU’s grønne taxonomi, CSR direktiv og rapportering spøger i overskrifterne – og imens vi endnu venter på de endelige standarder og formater for rapportering - breder rygterne sig om (endnu) et unødvendigt EU bureaukrati. 
 
 Men er klima- og miljøregnskab tidsspild eller kan de rent faktisk skabe værdi?
+![01 Klima og miljø](https://user-images.githubusercontent.com/75361000/201843112-5f6d2330-e903-41a1-af88-869e11dc9cce.jpg)
+
 
 Første lidt historik på området; I perioden 1995 – 2015 var i Danmark foregangsland med lov om grønt regnskab for en stribe virksomheder. De omfattede virksomheder (herunder flere mellemstore fødevareproducenter) skulle årligt rapportere om deres ressourceforbrug og kommentere pa udviklingen. Ud over forbrugstal og nøgletal skulle der også rapporteres på hvordan f.eks. produktionsudvidelse blev understøttet med ny teknologi der gav besparelser på miljøkontoen. 
 
