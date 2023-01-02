@@ -9,7 +9,7 @@ ref: jul
 
 2022 har været endnu et spændende og begivenhedsrigt år – webinarserien om klima og bæredygtighed fortsatte under vinterens covid nedlukning og umiddelbart herefter startede flere nye projekter op. 
 
-Den 1. juli kunne FoodEfficiency fejre 10-års jubilæum – og det er med glæde og taknemmelighed jeg kan se tilbage på de mange opgaver jeg har været inde over. 
+Den 1. juli kunne FoodEfficiency fejre 10-års jubilæum – og det er med glæde og taknemmelighed jeg kan se tilbage på de mange opgaver jeg har været inde over. Sidenhen er ESG in Business kommet til med særlig fokus på bæredygtighed for små og mellemstore virksomheder.
 
 I det forgangene år har det bl.a. budt på samarbejde med Intertek med særligt fokus på bæredygtighed og verificering af ISO 26000 om Social Ansvarlighed. 
 
