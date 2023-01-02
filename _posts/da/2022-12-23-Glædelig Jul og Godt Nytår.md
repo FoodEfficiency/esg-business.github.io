@@ -26,4 +26,5 @@ Et nyt år venter forude og jeg ønsker hermed alle mine kunder og samarbejdspar
 
 
 De bedste hilsner 
+
 Karin Hansen
