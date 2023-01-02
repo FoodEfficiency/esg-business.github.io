@@ -5,8 +5,6 @@ date:   2023-01-02 07:11:00 +0100
 permalink: news/invitation-til-webinarserie-om-klima-og-baeredygtighed
 tags: foodefficiency
 ref: webinar
-redirect_from:
-  - news/invitation-til-webinarserie-om-klima-og-bæredygtighed
 ---
 
 
