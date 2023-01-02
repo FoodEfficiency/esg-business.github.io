@@ -8,7 +8,6 @@ ref: webinar
 ---
 
 
-
 ![Winter Seminar](/assets/images/Winter%20Seminar.png)
 
 Klima og den grønne dagsorden giver din virksomhed eller organisation mulighed for at differentiere sig både på det lokale og det globale marked. 
