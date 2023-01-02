@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Invitation til webinarserie om klima og bæredygtighed"
+title:  "Invitation til webinarserie om klima og bæredygtighed - Myter og Muligheder"
 date:   2023-01-02 07:11:00 +0100
 permalink: news/invitation-til-webinarserie-om-klima-og-baeredygtighed
 tags: foodefficiency
@@ -18,7 +18,7 @@ Klimadagsordenen er nemlig ikke kun et benspænd. Der stilles nye og foranderlig
 
 Vi udbyder derfor en serie af fire webinars, hvor Jeres virksomhed kan blive klogere på bæredygtighed, under følgende overskrifter;
 
- **1. Introduktion til bæredygtighed og værdiskabelse**
+ **1. Introduktion til bæredygtighed - myter og muligheder**
  
  **2. Klima og bæredygtighed – direkte og indirekte påvirkninger (scope 1, 2 og 3)**
  
@@ -50,7 +50,7 @@ Jeg vil gerne tilmeldes følgende datoer:
     <div>
       <label class="checkbox field">
           <input type="checkbox" name="20/1-2023" checked />
-          <span>Fredag den 20/1 kl 8:30 - Introduktion til bæredygtighed og værdiskabelse</span>
+          <span>Fredag den 20/1 kl 8:30 - Introduktion til bæredygtighed - myter og muligheder</span>
       </label>      
       <label class="checkbox field">
           <input type="checkbox" name="27/1-2023" checked />
