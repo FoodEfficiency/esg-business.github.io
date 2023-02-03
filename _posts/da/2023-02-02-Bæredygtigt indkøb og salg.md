@@ -25,7 +25,7 @@ I starten af 2023 er jeg påbegyndt samarbejdet med godstransportens branchefore
 
 Og ja, der er ofte en omkostning forbundet med grøn omstiling, men når vi formår at sætte kroner og ører eller uro og cent overfor kg CO2 – så kan kunderne kan herefter sammenligne med hvad klimakreditter og CO2 afgifter ellers koster. Og så har de et reelt alternativ at se på. 
 
-**Budskabet er derfor at bæredygtighed skal sælges på dokumenterede facts og ikke farven grøn.** 
+Budskabet er derfor at **bæredygtighed skal sælges på dokumenterede facts og ikke farven grøn.** 
 
 Kontakt mig for et uforpligtende møde om hvordan CO2 og den grønne dagsorden kan spille en rolle ved indkøb eller salg i din virksomhed. 
 
