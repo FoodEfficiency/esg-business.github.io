@@ -8,7 +8,7 @@ ref: CSRD og ESRS
 ---
 
 **CSRD og ESRS – hvad der er vigtigt at vide for store, små og mellemstore virksomheder.**
-![00 CSR](https://user-images.githubusercontent.com/75361000/229443419-00831445-fdb4-4849-bb31-38ef09519ced.jpg)
+![00 CSR](https://user-images.githubusercontent.com/75361000/229443419-00831445-fdb4-4849-bb31-38ef09519ced.jpg#w360)
 
 
 Af Danmarks knapt 24000 virksomheder, med 10 eller flere ansatte, forventer erhvervsstyrelsen af ca. 2300 danske virksomheder bliver omfattet af rapporteringskravene.
@@ -30,5 +30,7 @@ Kortlægningen omfatter følgende hovedområder;
 * Virksomhedsetik og Samfundsansvar
 
 <img width="240" alt="ESG mapping 4" src="https://user-images.githubusercontent.com/75361000/229443516-d7dd107c-4e72-48ae-b4ad-77ac5b019a4f.png">
+
+[Link til  dokument](/assets/publications/2023%20CSRD%20og%20ESRS%20Marts.pdf)
 
 Kortlægningen giver dig et godt udgangspunkt for virksomhedens videre arbejde med bæredygtighedsrapportering, så kontakt mig for et tilbud der giver værdi og muligheder for din virksomhed. 
