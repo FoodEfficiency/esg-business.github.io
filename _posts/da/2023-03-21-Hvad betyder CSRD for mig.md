@@ -24,10 +24,10 @@ Den bedste måde at forberede sig på er ved allerede nu at foretage en indleden
 Hos ESG-in-Business / FoodEfficiency udviklede vi allerede sidste år et simpelt kortlægnings-værktøj, der er med til at identificere relevante områder og data der er efterspurgte indenfor bæredygtighedsrapportering. 
 
 Kortlægningen omfatter følgende hovedområder;
-•	Klima, Miljø og Biodiversitet
-•	Medarbejdere - Sikkerhed, Trivsel og Kompetencer  
-•	Indkøb - Varer, Transport og Serviceydelser
-•	Virksomhedsetik og Samfundsansvar
+* Klima, Miljø og Biodiversitet
+* Medarbejdere - Sikkerhed, Trivsel og Kompetencer
+* Indkøb - Varer, Transport og Serviceydelser
+* Virksomhedsetik og Samfundsansvar
 
 <img width="240" alt="ESG mapping 4" src="https://user-images.githubusercontent.com/75361000/229443516-d7dd107c-4e72-48ae-b4ad-77ac5b019a4f.png">
 
