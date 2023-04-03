@@ -21,7 +21,7 @@ Hovedparten af de danske virksomheder bliver ikke direkte omfattet af CSRD, men 
 
 Den bedste måde at forberede sig på er ved allerede nu at foretage en indledende kortlægning af virksomheden og de data der er kan være relevante. 
 
-Hos ESG-in-Business / FoodEfficiency udviklede vi allerede sidste år et simpelt kortlægnings-værktøj, der er med til at identificere relevante områder og data der er efterspurgte indenfor bæredygtighedsrapportering. 
+Hos ESG-in-Business / FoodEfficiency udviklede vi allerede sidste år et **simpelt kortlægnings-værktøj**, der er med til at identificere relevante områder, og relaterede data, der er efterspurgte indenfor bæredygtighedsrapportering. 
 
 Kortlægningen omfatter følgende hovedområder;
 * Klima, Miljø og Biodiversitet
