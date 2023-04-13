@@ -101,9 +101,13 @@ document.getElementById("contact_submit").addEventListener("click", function(eve
 
   const locale = document.getElementById("locale").value;
   const checkedBoxes = document.querySelectorAll('input[type=checkbox]:checked');
-  var message = "Tilmelding til følgende events:\n";
+  const checkedRadios = document.querySelectorAll('input[type=radio]:checked');
+  var message = "Tilmelding til følgende event(s):\n";
   checkedBoxes.forEach(input => {
       message = message + " *  " + input.name + "\n";
+    });
+  checkedRadios.forEach(input => {
+      message = message + " *  " + input.value + "\n";
     });
   const name = document.getElementById("inquiry_name").value;
   const info2 = document.getElementById("inquiry_info2").value;
