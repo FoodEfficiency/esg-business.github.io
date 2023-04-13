@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Invitation til webinar om EUs nye bæredygtighedsdirektiv og muligheder for virksomhederne"
+title:  "Invitation til webinar om EUs nye bæredygtighedsdirektiv"
 date:   2023-04-13 07:11:00 +0100
 permalink: news/invitation-til-webinar-om-EUs-nye-bæredygtighedsdirektiv
 tags: foodefficiency
@@ -21,15 +21,15 @@ Men den øgede data indsamling og rapportering kan også give værdi for din vir
 Vil du høre mere så tilmeld dig vores webinar som giver dig overblik over de nye krav og de muligheder som kommer i kølvandet på EU’s nye rapporteringskrav.
 
 På webinaret hører du om følgende emner;
-Introduktion til til CSRD – hvem er omfattet 
-Introduktion til ESRS – hovedpunkter 
-Kom godt i gang med rapportering 
--	Eksisterende standarder
--	Kortlægning 
-Sæt pris på din bæredygtighed 
+- Introduktion til til CSRD – hvem er omfattet 
+- Introduktion til ESRS – hovedpunkter 
+- Kom godt i gang med rapportering 
+-	Ved brug af eksisterende standarder
+-	Ved indledende kortlægning 
+- Sæt pris på din bæredygtighed 
 
 
-Webinarene er rettet mod virksomhedsejere såvel som produktions-, kvalitets- og salgschefer i små og mellemstore virksomheder.
+Webinarene er rettet mod virksomhedsejere såvel som økonomi- og salgschefer i små og mellemstore virksomheder.
 
 Deltagelse er gratis og har en varighed af ca 30 minuter samt 15 minuter til debat. Der er plads til max 12  deltagere pr event, og der udbydes tre datoer.
 
