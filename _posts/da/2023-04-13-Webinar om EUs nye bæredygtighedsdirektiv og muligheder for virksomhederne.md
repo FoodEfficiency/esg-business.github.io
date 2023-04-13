@@ -24,8 +24,8 @@ På webinaret hører du om følgende emner;
 - Introduktion til til CSRD – hvem er omfattet 
 - Introduktion til ESRS – hovedpunkter 
 - Kom godt i gang med rapportering 
--	Ved brug af eksisterende standarder
--	Ved indledende kortlægning 
+  -	Ved brug af eksisterende standarder
+  -	Ved indledende kortlægning 
 - Sæt pris på din bæredygtighed 
 
 
@@ -59,7 +59,7 @@ Jeg vil gerne tilmeldes webinaret på følgende dato:
       <label class="checkbox field">
           <input type="checkbox" name="17/3-2023" checked />
           <span>Fredag den 2/6 kl 8:30 </span>
-      </label
+      </label>
     </div>
 
     <!-- <div class="field message_field">
