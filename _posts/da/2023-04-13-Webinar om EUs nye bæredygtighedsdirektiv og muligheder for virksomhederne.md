@@ -50,15 +50,15 @@ Jeg vil gerne tilmeldes webinaret på følgende dato:
     <div>
       <fieldset>
         <label class="radio field">
-          <input type="radio" name="3/3-2023" />
+          <input type="radio" name="event_date" value="3/3-2023" />
           <span>Fredag den 12/5 kl 8:30 </span>
         </label>      
         <label class="radio field">
-          <input type="radio" name="10/3-2023" />
+          <input type="radio" name="event_date" value="10/3-2023" />
           <span>Fredag den 26/5 kl 8:30 </span>
         </label>
         <label class="radio field">
-          <input type="radio" name="17/3-2023" />
+          <input type="radio" name="event_date" value="17/3-2023" />
           <span>Fredag den 2/6 kl 8:30 </span>
         </label>
       </fieldset>
