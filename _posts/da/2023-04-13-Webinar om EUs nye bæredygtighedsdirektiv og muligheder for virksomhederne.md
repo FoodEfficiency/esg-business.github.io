@@ -48,18 +48,20 @@ Jeg vil gerne tilmeldes webinaret på følgende dato:
     </div>
 
     <div>
-      <label class="checkbox field">
+      <fieldset>
+        <label class="checkbox field">
           <input type="radio" name="3/3-2023" />
           <span>Fredag den 12/5 kl 8:30 </span>
-      </label>      
-      <label class="checkbox field">
+        </label>      
+        <label class="checkbox field">
           <input type="radio" name="10/3-2023" />
           <span>Fredag den 26/5 kl 8:30 </span>
-      </label>
-      <label class="checkbox field">
+        </label>
+        <label class="checkbox field">
           <input type="radio" name="17/3-2023" />
           <span>Fredag den 2/6 kl 8:30 </span>
-      </label>
+        </label>
+      </fieldset>
     </div>
 
     <!-- <div class="field message_field">
