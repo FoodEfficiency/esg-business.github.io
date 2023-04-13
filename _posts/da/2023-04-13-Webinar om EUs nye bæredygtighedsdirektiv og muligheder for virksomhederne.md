@@ -6,8 +6,7 @@ permalink: news/invitation-til-webinar-om-EUs-nye-bæredygtighedsdirektiv
 tags: foodefficiency
 ref: webinar CSRD og ESRS
 ---
-**Webinar om EUs nye bæredygtighedsdirektiv og muligheder for virksomhederne
-- for de virksomheder der IKKE er DIREKTE omfattet af direktivet**
+**Webinar om EUs nye bæredygtighedsdirektiv og muligheder for virksomhederne - de virksomheder der IKKE er DIREKTE omfattet af direktivet**
 ![00 CSR](https://user-images.githubusercontent.com/75361000/229443419-00831445-fdb4-4849-bb31-38ef09519ced.jpg#pull-right;w360)
 
 Det nye europæiske bæredygtighedsdirektiv (CSRD) er trådt I kraft – men faktisk forvente Erhvervsstyrelsen at blot 2300 danske virksomheder at blive direkte omfattet.
