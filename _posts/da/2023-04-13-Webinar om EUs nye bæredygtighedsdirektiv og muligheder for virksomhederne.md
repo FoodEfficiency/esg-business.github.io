@@ -104,6 +104,11 @@ document.getElementById("contact_submit").addEventListener("click", function(eve
   const checkedRadios = document.querySelectorAll('input[type=radio]:checked');
   var message = "Tilmelding til følgende event(s):\n";
   checkedBoxes.forEach(input => {
+      // var nextSibling = input.nextSibling;
+      // while(nextSibling && nextSibling.nodeType != 1) {
+      //   nextSibling = nextSibling.nextSibling
+      // }
+      // message = message + " *  " + nextSibling.innerHTML + " - " + input.value || input.name + "\n";
       message = message + " *  " + input.name + "\n";
     });
   checkedRadios.forEach(input => {
