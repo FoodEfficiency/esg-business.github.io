@@ -57,5 +57,5 @@ ref: publications
 * [2020 - Kom godt i gang med bæredygtighed og CSR rapportering - one page flyer til gå hjem møde](/assets/publications/2020_FE_Kom godt i gang med bæredygtighed og CSR rapportering_one page flyer til gaa hjem mode.pdf){:target="_blank"}
 * [2020 - Mundbind anbefales som et supplerende smitteforebyggende tiltag](/assets/publications/2020_FE_Mundbind anbefales som et supplerende smitteforebyggende tiltag.pdf){:target="_blank"}
 * [2020 - New food trends and the need to reconsider intended use](/assets/publications/2020_FE_New food trends and the need to reconsider.pdf){:target="_blank"}
-* [2020 - **LFQS** - List of control points to check for](/assets/publications/2020_LFQS_List of control points to check for.pdf){:target="_blank"}
+* [2020 - **LFQS** - List of control points to check for filling lines](/assets/publications/2020_LFQS_List of control points to check for.pdf){:target="_blank"}
 * [2020 - **Ramboll** - Store industrivirksomheder trodser økonomisk krise og corona: 2 ud af 3 fortsætter bæredygtig omstilling – og det kan der være god forretning i - Rambøll i Danmark](/assets/publications/2020_Ramboll_Store industrivirksomheder trodser økonomisk krise og corona: 2 ud af 3 fortsætter bæredygtig omstilling – og det kan der være god forretning i - Rambøll i Danmark.pdf){:target="_blank"}
