@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Hvad betyder CSRD for mig?
-date:  2023-03-21 11:11:00 +0100
-permalink: news/Hvad-betyder-CSRD-for-mig
+title: Det plantebaserede ostetræ
+date:  2024-04-11 05:11:00 +0100
+permalink: news/Ostetræ
 tags: ESG-in-business 
-ref: CSRD og ESRS
+ref: Ostetræ
 ---
 **NYHED - Det Plantebaserede Ostetræ**
 
