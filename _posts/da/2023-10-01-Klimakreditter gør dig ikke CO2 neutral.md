@@ -19,4 +19,5 @@ For vi er for længst forbi den tid, hvor der skulle kapital til ny teknologi ti
 Ja, der er mange virksomheder, der nu skal i gang med at gentænke deres klimamål og markedsføring.
 Et godt tip herfra er at starte med at se på, hvor mange penge du har "smidt væk" på køb af klimakreditter de seneste 3 år og overveje om de penge ikke kunne bruges bedre på interne procesforbedringer og investeringer i lang- sigt leverandørsamarbejde.
 
-![20221009_115404](https://github.com/FoodEfficiency/esg-business.github.io/assets/75361000/f37df327-4100-4ba2-86db-b5e825150b95)
+![20221009_115404](https://github.com/FoodEfficiency/esg-business.github.io/assets/75361000/09a31afe-2d55-4dd4-ac3c-07a648dafa50)
+
