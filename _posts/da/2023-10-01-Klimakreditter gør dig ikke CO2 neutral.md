@@ -12,6 +12,8 @@ Den bedste måde at reducere din CO2- og klimapåvirkning på har altid været a
 
 I det sammenhæng er der derfor positivt, at det i EU-regi fra 2026 bliver forbudt at markedsføre sine produkter eller produktion som CO2-neutral, når det er køb af klimakreditter, der ligger bag den påståede CO2-neutralitet.
 
+Du kan læse mere om de kommende [krav her](https://carbonherald.com/the-eu-plans-to-ban-climate-neutral-claims-by-2026/).
+
 For vi er for længst forbi den tid, hvor der skulle kapital til ny teknologi til opførelsen af de første vind- og solparker og anden grøn teknologi, og meget få plantageskovsprojekter (og fældning af flis til forbrænding) har betalt CO2-besparelsen. der blev lovet.
 
 Ja, der er mange virksomheder, der nu skal i gang med at gentænke deres klimamål og markedsføring.
