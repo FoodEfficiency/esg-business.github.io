@@ -17,6 +17,7 @@ Du kan læse mere om de kommende [krav her](https://carbonherald.com/the-eu-plan
 For vi er for længst forbi den tid, hvor der skulle kapital til ny teknologi til opførelsen af de første vind- og solparker og anden grøn teknologi, og meget få plantageskovsprojekter (og fældning af flis til forbrænding) har betalt CO2-besparelsen. der blev lovet.
 
 Ja, der er mange virksomheder, der nu skal i gang med at gentænke deres klimamål og markedsføring.
+
 Et godt tip herfra er at starte med at se på, hvor mange penge du har "smidt væk" på køb af klimakreditter de seneste 3 år og overveje om de penge ikke kunne bruges bedre på interne procesforbedringer og investeringer i lang- sigt leverandørsamarbejde.
 
 ![20221009_115404](https://github.com/FoodEfficiency/esg-business.github.io/assets/75361000/09a31afe-2d55-4dd4-ac3c-07a648dafa50)
