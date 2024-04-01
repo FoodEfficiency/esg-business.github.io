@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Fødevarer og klima
+title: Fødevarer, klimaftryk og bæredygtighed
 date:  2024-03-12 11:11:00 +0100
 permalink: news/Fødevarer og klima
 tags: ESG-in-business 
