@@ -9,3 +9,4 @@ ref: Ostetræ
 **NYHED - Det Plantebaserede Ostetræ**
 
 ![Pressemeddelelse_Barrit Mejeri_FoodEfficiency 1 April 2024](https://github.com/FoodEfficiency/esg-business.github.io/assets/75361000/f1032efa-aa90-4081-8c4d-0ff96d383847)
+
