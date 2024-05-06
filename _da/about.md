@@ -44,7 +44,7 @@ Tidligere ansættelsesforhold og opgaver [fremgår af CV][2] samt LinkedIn profi
 <div class="pull-right w50">
   <h3 class="brand"><span>ESG in Business</span></h3>
   <p>v/Karin Hansen</p>
-  <p>Jessensgade 1, 3. sal<br>DK-8700 Horsens</p>
+  <p>Levysgade 12, 3. sal<br>DK-8700 Horsens</p>
   <p>Tel: +45 2987 8494</p>
   <p>CVR: 34428832</p>
   <p>Eller send en besked via formularen, og vi vil vende tilbage snarest muligt.</p>
